@@ -1,1 +1,0 @@
-# rfm-customer-segmentation
